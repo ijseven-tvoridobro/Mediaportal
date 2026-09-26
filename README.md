@@ -217,4 +217,4 @@ MediaPortal is offered as a full free version, giving you access to all features
 Start your multimedia journey today! Download MediaPortal now and enjoy the ultimate entertainment experience.
 
 ---
-**Last updated:** 2026-09-25 22:02:45 UTC
+**Last updated:** 2026-09-26 01:15:40 UTC
